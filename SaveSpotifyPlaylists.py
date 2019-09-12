@@ -2,8 +2,8 @@ import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
 
 
-CLIENT_ID = '25880b567c264f218bcead01b39b354e'
-CLIENT_SECRET = 'a2204e1a8c06423c934fa45ac69660b0'
+CLIENT_ID = 'Client_ID'
+CLIENT_SECRET = 'Client_Secret'
 
 
 # Filter out non-unicode chars (e.g. emojis)
